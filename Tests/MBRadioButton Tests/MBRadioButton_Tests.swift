@@ -1,11 +1,11 @@
 import XCTest
-@testable import RadioCheckboxButton_
+@testable import MBRadioButton_
 
-final class RadioCheckboxButton_Tests: XCTestCase {
+final class MBRadioButton_Tests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(RadioCheckboxButton_().text, "Hello, World!")
+        XCTAssertEqual(MBRadioButton_().text, "Hello, World!")
     }
 }
